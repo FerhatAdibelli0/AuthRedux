@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AuthRedux/static/css/main.cdd662ec.chunk.css",
+    "main.js": "/AuthRedux/static/js/main.12dfd4aa.chunk.js",
+    "main.js.map": "/AuthRedux/static/js/main.12dfd4aa.chunk.js.map",
+    "runtime-main.js": "/AuthRedux/static/js/runtime-main.669c0db3.js",
+    "runtime-main.js.map": "/AuthRedux/static/js/runtime-main.669c0db3.js.map",
+    "static/js/2.8c31738d.chunk.js": "/AuthRedux/static/js/2.8c31738d.chunk.js",
+    "static/js/2.8c31738d.chunk.js.map": "/AuthRedux/static/js/2.8c31738d.chunk.js.map",
+    "index.html": "/AuthRedux/index.html",
+    "static/css/main.cdd662ec.chunk.css.map": "/AuthRedux/static/css/main.cdd662ec.chunk.css.map",
+    "static/js/2.8c31738d.chunk.js.LICENSE.txt": "/AuthRedux/static/js/2.8c31738d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.669c0db3.js",
+    "static/js/2.8c31738d.chunk.js",
+    "static/css/main.cdd662ec.chunk.css",
+    "static/js/main.12dfd4aa.chunk.js"
+  ]
+}
